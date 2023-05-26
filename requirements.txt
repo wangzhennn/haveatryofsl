@@ -1,0 +1,14 @@
+altair
+numpy
+pandas
+plotly
+scikit-learn
+shap
+streamlit
+streamlit_shap
+xgboost
+matplotlib
+umap-learn
+seaborn
+pillow
+plotly
